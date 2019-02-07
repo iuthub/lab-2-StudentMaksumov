@@ -1,0 +1,39 @@
+
+body{
+	background-color:#303F30 ;
+	font-size: 24px;
+}
+
+.personalinfo{
+	color: #BDE61A;
+	text-align:24px ;
+}
+
+h1{
+	color:#3C9178;
+	text-align:24px ;
+}
+
+.mainfeatures{
+	color: yellow;
+	font-size: 24px;
+}
+
+a{
+	color: purple;
+}
+
+.mood{
+	text-align:24px ;
+}
+
+
+}
+
+ul, ol{
+	margin: 0 auto;
+}
+li, p{
+	color: #E5E734 ;
+
+}
